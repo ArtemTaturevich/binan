@@ -1,3 +1,4 @@
+cd binan
 npm i
 npm run start
 
